@@ -17,5 +17,5 @@ function scuberGreetingForFeet(distancetravel){
 }
 
 function ternaryCheckCity(location) {
-  if
+  if (location)
 }

@@ -20,7 +20,7 @@ function ternaryCheckCity(city) {
   return city === `NYC` ? `Ok, sounds good.` : `No go.`
   }
   
-function switchonCharmfromTip(tip) {
+function switchOnCharmFromTip(tip) {
   switch (tip) {
     case `generous`:
       return `Thank you so much.`

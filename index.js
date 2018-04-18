@@ -16,6 +16,6 @@ function scuberGreetingForFeet(distancetravel){
   }
 }
 
-function ternaryCheckCity(locale) {
+function ternaryCheckCity(city) {
   return locale === `NYC` ? `Ok, sounds good.` : `No go`
   }

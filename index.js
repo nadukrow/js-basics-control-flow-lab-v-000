@@ -3,7 +3,7 @@
 function scuberGreetingForFeet(distancetravel){
   if (distancetravel <= 400){
     
-    return "This one is free!"
+    return "This one is one me!"
   } 
   
   else if ((2500 > number) && (number > 2000)) {

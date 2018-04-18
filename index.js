@@ -16,4 +16,4 @@ function scuberGreetingForFeet(distancetravel){
   }
 }
 
-function ternaryCheckcity
+function ternaryCheckCity()
